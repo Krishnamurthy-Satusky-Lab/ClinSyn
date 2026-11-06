@@ -79,12 +79,14 @@ Predictions whose answers cannot be parsed are counted and excluded before
 evaluation. Original accuracy is reported for both the full retained original
 dataset and the subset with retained transformed counterparts.
 
+<!--
 ## Citation
 
 If you use this code, please cite the paper.
 
 ```bibtex
 @inproceedings{clinsyn,
+  author    = {Dola, Swaroopa and Krishnamurthy, Ashok},
   title     = {ClinSyn: A Framework for Ontology-Guided Robustness Evaluation
                of LLMs on Clinical Question Answering},
   booktitle = {IEEE International Conference on Bioinformatics and Biomedicine
@@ -92,3 +94,4 @@ If you use this code, please cite the paper.
   year      = {2026}
 }
 ```
+-->
